@@ -1,0 +1,35 @@
+@charset "utf-8";
+
+#top {
+    color: rgb(30, 231, 12);
+}
+
+.text-center {
+    font-family: sans-serif;
+    text-align: center;
+    padding: 8px 19px;
+    margin: 2em 0;
+    color: #2c2c2f;
+    background: #cde4ff;
+    border-top: solid 5px #5989cf;
+    border-bottom: solid 5px #5989cf;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    background-color: papayawhip;
+}
+
+#canvas_wrapper {
+    width: 300px;
+    margin:0 auto;
+}
+
+.naka {
+    text-align: center;
+    padding: 0.5em 1em;
+    margin: 2em 0;
+    background: #f0f7ff;
+    border: dashed 2px #5b8bd0;
+}
